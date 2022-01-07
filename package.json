@@ -3,6 +3,9 @@
 		"name":"Shivam Sharma",
 		"email": "sharmashivam9611@gmail.com"
 	},
+	"keywords": [ "backend", "freecodecamp", "node", "express" ],
+  	"license": "MIT",
+	"description": "A project that does something awesome",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
